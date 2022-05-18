@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mrdouglasmorais/icarros-full-js.git"
+    "url": "git+https://github.com/j-dutra/icarros-projeto-full-js.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mrdouglasmorais/icarros-full-js/issues"
+    "url": "https://github.com/j-dutra/icarros-projeto-full-js/issues"
   },
-  "homepage": "https://github.com/mrdouglasmorais/icarros-full-js#readme",
+  "homepage": "https://github.com/j-dutra/icarros-projeto-full-jss#readme",
   "dependencies": {
     "@babel/runtime": "^7.17.9"
   },
