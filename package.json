@@ -1,24 +1,24 @@
 {
-  "name": "projeto-full",
+  "name": "icarros-full",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "webpack server --open --config webpack.dev.js",
-    "build": "webpackk --config webpack.prod.js",
-    "server": "live-server dist --verbose"
+    "start": "webpack serve --open --config webpack.dev.js",
+    "build": "webpack --config webpack.prod.js",
+    "serve": "live-server dist --verbose" 
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/j-dutra/projeto-full-js.git"
+    "url": "git+https://github.com/mrdouglasmorais/icarros-full-js.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/j-dutra/projeto-full-js/issues"
+    "url": "https://github.com/mrdouglasmorais/icarros-full-js/issues"
   },
-  "homepage": "https://github.com/j-dutra/projeto-full-js#readme",
+  "homepage": "https://github.com/mrdouglasmorais/icarros-full-js#readme",
   "dependencies": {
     "@babel/runtime": "^7.17.9"
   },
